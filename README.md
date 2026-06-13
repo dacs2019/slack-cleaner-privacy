@@ -48,4 +48,4 @@ El uso de la informacion recibida se limita a proveer y mejorar la funcion princ
 
 ## Contacto
 
-Para soporte o preguntas de privacidad, usa el correo de soporte publicado en la ficha de Chrome Web Store.
+Para soporte o preguntas de privacidad: xnombre.prohibidox@gmail.com
